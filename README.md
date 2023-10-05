@@ -1,5 +1,5 @@
-# Prazer! Eu sou o Pedro... 👋
-👨‍💻Estagiário em Base de Dados para IA<br>📚Informática para Internet (3/3)<br>🧠Me considero muito criativo e sempre disposto a aprender coisas novas.<br>📍São Paulo/BR.<br><br>
+# Hello! I'm Pedro...
+👨‍💻Database Intern for AI<br>📚Internet Computing (3/3)<br>🧠I consider myself very creative and always willing to learn new things.<br>📍São Paulo/BR.<br> <br>
 
 
 # 🌐 Mídias Sociais:
