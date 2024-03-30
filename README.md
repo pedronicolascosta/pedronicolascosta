@@ -1,5 +1,5 @@
 # Hello! I'm Pedro...
-👨‍💻Database Intern for AI<br>📚Internet Computing (3/3)<br>🧠I consider myself very creative and always willing to learn new things.<br>📍São Paulo/BR.<br> <br>
+📚Computer Science Student<br>👨‍💻Internet Computer Technician<br>🧠I consider myself very creative and always willing to learn new things.<br>📍São Paulo/BR.<br> <br>
 
 
 # 🌐 Mídias Sociais:
@@ -13,7 +13,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 # 📊 Status do GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=projetos-NicolasCosta&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNicolasCosta&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
