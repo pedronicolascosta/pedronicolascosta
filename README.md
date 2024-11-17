@@ -23,5 +23,5 @@
 
 # 🌐 Social Media:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pedronicolascosta)
-<a href="mailto:pedronicolascosta@outlook.com" style:"none">[![Email](https://skillicons.dev/icons?i=gmail)]</a>
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:pedronicolascosta@outlook.com)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
