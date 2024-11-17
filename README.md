@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,php,c&perline=3)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
 
 ### Design
 
