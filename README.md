@@ -4,10 +4,10 @@
 
 # 💻 Technologies:
 ### Front-End
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap&perline=3)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap)
 
 ### Back-End
-![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,selenium&perline=3)
+![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,selenium)
 
 ### Database
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
@@ -22,6 +22,4 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github)
 
 # 🌐 Social Media:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pedronicolascosta)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:pedronicolascosta@outlook.com)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pedronicolascosta) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:pedronicolascosta@outlook.com)
